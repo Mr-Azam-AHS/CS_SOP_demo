@@ -1,7 +1,6 @@
 public class Calculator {
    public int add(int a, int b){
-    //TODO: Implement this method
-    return 0;
+    return a + b;
    } 
 
    public static void main(String[] args) {
